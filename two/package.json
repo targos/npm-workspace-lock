@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "npm-workspace-lock-two",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react-scripts": "^4.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "npm-workspace-lock",
+  "version": "1.0.0",
+  "workspaces": [
+    "one",
+    "two"
+  ],
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
